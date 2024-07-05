@@ -1,5 +1,6 @@
 # 📝 Trask
 > _version_ : 1.0.0 (poc)
+> _auteur_ : N.Y
 
 Trask est une application de gestion de tâches construite avec la stack MERN.
 
@@ -41,3 +42,7 @@ cd todo_frontend && npm start
 - [ ] Filtrer les tâches
 - [ ] Créer des catégories de tâches
 - [ ] Ajouter des utilisateurs
+
+## 📽️ Vidéo de démonstration
+![img.png](img.png)
+![trask.gif](trask.gif)
